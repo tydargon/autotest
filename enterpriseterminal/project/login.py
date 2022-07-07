@@ -8,7 +8,8 @@ from selenium.webdriver.common.by import By
 class LoginTestCase(unittest.TestCase):
     def setUp(self):
         print("测试开始")
-        self.driver = webdriver.Chrome()
+        driver_path = 'D:\driver\chromedriver.exe'
+        self.driver = webdriver.Chrome(executable_path=driver_path)
         self.driver.implicitly_wait(20)
         self.base_url = "https://ralph.test.zyde.vip/static/login/login.html"
         self.driver.get(self.base_url)
