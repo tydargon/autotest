@@ -1,0 +1,1 @@
+import requestsimport osos.environ['NO_PROXY'] = 'stackoverflow.com're = requests.get('https://www.baidu.com')print(re.text)
