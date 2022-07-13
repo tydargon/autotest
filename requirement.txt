@@ -1,1 +1,1 @@
-requestspymysqlgit操作1.新建分支git branch xxxx2.切换分支git checkout xxxx3.添加到缓存池git add.4.提交到缓存池git commit -a '编写更新内容'5.切换主分支mastergit checkout master6.mergegit merge xxxx(分支名称）7.远程git push -u origin master
+requestspymysqlgit操作1.新建分支git branch xxxx2.切换分支git checkout xxxx3.添加到缓存池git add.4.提交到缓存池git commit -m '编写更新内容'5.切换主分支mastergit checkout master6.mergegit merge xxxx(分支名称）7.远程git push -u origin master
