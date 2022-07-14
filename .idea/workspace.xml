@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b616dd9-c386-4e4c-ade8-261f2c98d559" name="Changes" comment="更新参数信息">
-      <change afterPath="$PROJECT_DIR$/util/db_util_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/xdclass_api_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/db_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/db_util.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,29 +42,7 @@
       <recent name="D:\Jenkins\workspace\xd_api_test\test_unittest" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.db_util">
-    <configuration name="RequestUtil" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="xd_api_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/RequestUtil.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.xdclass_api_test">
     <configuration name="RunMain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="xd_api_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,6 +109,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="xdclass_api_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xd_api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/xdclass_api_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in UserTestCase.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="xd_api_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,19 +147,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.RequestUtil" />
       <item itemvalue="Python.UserTestCase" />
       <item itemvalue="Python.RunMain" />
       <item itemvalue="Python.db_util" />
       <item itemvalue="Python tests.Python tests in UserTestCase.py" />
+      <item itemvalue="Python.xdclass_api_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.xdclass_api_test" />
         <item itemvalue="Python.db_util" />
         <item itemvalue="Python.RunMain" />
         <item itemvalue="Python.UserTestCase" />
         <item itemvalue="Python tests.Python tests in UserTestCase.py" />
-        <item itemvalue="Python.RequestUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +177,7 @@
       <workItem from="1657507546150" duration="137000" />
       <workItem from="1657507687626" duration="108000" />
       <workItem from="1657507887123" duration="14306000" />
-      <workItem from="1657766368480" duration="711000" />
+      <workItem from="1657766368480" duration="10435000" />
     </task>
     <task id="LOCAL-00001" summary="更新参数信息">
       <created>1657187341242</created>
@@ -233,11 +232,12 @@
     <SUITE FILE_PATH="coverage/xd_api_test$all_test.coverage" NAME="all_test Coverage Results" MODIFIED="1657185797476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/enterpriseterminal/project" />
     <SUITE FILE_PATH="coverage/xd_api_test$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1657509032665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_unittest" />
     <SUITE FILE_PATH="coverage/xd_api_test$RequestDemo__1_.coverage" NAME="RequestDemo (1) Coverage Results" MODIFIED="1657271506020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../BaiduNetdiskDownload/自动化测试资料/接口自动化课程源码/第7章/第3集/xd_test/req" />
+    <SUITE FILE_PATH="coverage/xd_api_test$xdclass_api_test.coverage" NAME="xdclass_api_test Coverage Results" MODIFIED="1657783946408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/xd_api_test$IndexTestCase.coverage" NAME="IndexTestCase Coverage Results" MODIFIED="1657520765969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/xd_api_test$RequestDemo_1.coverage" NAME="RequestDemo_1 Coverage Results" MODIFIED="1657272172077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/req" />
     <SUITE FILE_PATH="coverage/xd_api_test$RequestUtil.coverage" NAME="RequestUtil Coverage Results" MODIFIED="1657521434196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/xd_api_test$RunMain.coverage" NAME="RunMain Coverage Results" MODIFIED="1657522371791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/xd_api_test$db_util.coverage" NAME="db_util Coverage Results" MODIFIED="1657676734594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/xd_api_test$db_util.coverage" NAME="db_util Coverage Results" MODIFIED="1657779744435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/xd_api_test$RequestDemo.coverage" NAME="RequestDemo Coverage Results" MODIFIED="1657270351632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/req" />
     <SUITE FILE_PATH="coverage/xd_api_test$UserTestCase.coverage" NAME="UserTestCase Coverage Results" MODIFIED="1657621564327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/xd_api_test$.coverage" NAME=" Coverage Results" MODIFIED="1657521924646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
