@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b616dd9-c386-4e4c-ade8-261f2c98d559" name="Changes" comment="更新参数信息">
-      <change afterPath="$PROJECT_DIR$/util/db_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/db_util_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/xd_api_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xd_api_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/RequestUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/request_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/db_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/db_util.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,8 +151,8 @@
       <item itemvalue="Python.RequestUtil" />
       <item itemvalue="Python.UserTestCase" />
       <item itemvalue="Python.RunMain" />
-      <item itemvalue="Python tests.Python tests in UserTestCase.py" />
       <item itemvalue="Python.db_util" />
+      <item itemvalue="Python tests.Python tests in UserTestCase.py" />
     </list>
     <recent_temporary>
       <list>
@@ -181,6 +178,7 @@
       <workItem from="1657507546150" duration="137000" />
       <workItem from="1657507687626" duration="108000" />
       <workItem from="1657507887123" duration="14306000" />
+      <workItem from="1657766368480" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="更新参数信息">
       <created>1657187341242</created>
