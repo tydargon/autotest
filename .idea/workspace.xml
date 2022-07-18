@@ -151,9 +151,13 @@
     <list>
       <item itemvalue="Python.UserTestCase" />
       <item itemvalue="Python.RunMain" />
+<<<<<<< HEAD
       <item itemvalue="Python tests.Python tests in UserTestCase.py" />
       <item itemvalue="Python.db_util_test" />
+=======
+>>>>>>> a97a10f (更新db类封装)
       <item itemvalue="Python.db_util" />
+      <item itemvalue="Python tests.Python tests in UserTestCase.py" />
     </list>
     <recent_temporary>
       <list>
@@ -179,6 +183,7 @@
       <workItem from="1657507546150" duration="137000" />
       <workItem from="1657507687626" duration="108000" />
       <workItem from="1657507887123" duration="14306000" />
+      <workItem from="1657766368480" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="更新参数信息">
       <created>1657187341242</created>
