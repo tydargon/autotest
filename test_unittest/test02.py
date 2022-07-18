@@ -1,0 +1,1 @@
+def maopao_sort(blist):    count = len(blist)    for i in range(0, count):        for j in range(i + 1, count):            if blist[i] < blist[j]:                blist[i], blist[j] = blist[j], blist[i]    return blistblist = maopao_sort([2, 5, 1, 50, 20, 10, 9])print(blist)
