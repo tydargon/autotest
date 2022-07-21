@@ -1,0 +1,1 @@
+UI_WAIT_TIME = 2EXECUTABLE_PATH = 'D:\driver\chromedriver.exe'

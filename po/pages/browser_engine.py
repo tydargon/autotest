@@ -1,0 +1,1 @@
+from selenium import webdriverfrom po import settingsclass BrowserEngine:    def init_driver(self):        option = webdriver.ChromeOptions()        option.add_argument('disable-infobars')        driver = webdriver.Chrome(chrome_options = option, executable_path = settings.EXECUTABLE_PATH)        return driver

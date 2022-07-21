@@ -1,0 +1,1 @@
+from po.pages.browser_engine import BrowserEnginefrom po.pages.login_page import LoginPageclass TestLogin(object):    driver = BrowserEngine().init_driver()    def test_login(self):        LoginPage(driver = self.driver).login()if __name__ == '__main__':    t = TestLogin()    t.test_login()
